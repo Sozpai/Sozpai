@@ -13,3 +13,11 @@
 ### Follow me and contacts
 
 [![Telegram](https://img.shields.io/badge/-telegram?style=for-the-badge&logo=telegram&logoColor=blue&label=TELEGRAM&labelColor=black&color=black)](https://t.me/Sozpai) [![Discord](https://img.shields.io/badge/-discord?style=for-the-badge&logo=discord&logoColor=%237289DA&label=Discord&labelColor=black&color=black)](https://discordapp.com/users/698423595264638986/)
+
+### Languages card
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Site2)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Evklid)](https://github.com/anuraghazra/github-readme-stats)
