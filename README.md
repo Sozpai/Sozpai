@@ -16,8 +16,8 @@
 
 ### Languages card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sozpai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Site2)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Evklid)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Site2)](https://github.com/Sozpai/Site2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Evklid)](https://github.com/Sozpai/Evklid)
