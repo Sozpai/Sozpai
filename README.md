@@ -12,8 +12,4 @@
 
 ### Follow me and contacts
 
-[![Telegram](https://img.shields.io/badge/-telegram?style=for-the-badge&logo=telegram&logoColor=blue&label=TELEGRAM&labelColor=black&color=black)](https://t.me/Sozpai)
-
-[![Discord](https://img.shields.io/badge/-discord?style=for-the-badge&logo=discord&logoColor=%237289DA&label=Discord&labelColor=black&color=black)](https://discordapp.com/users/698423595264638986/)
-
-[![Static Badge](https://img.shields.io/badge/-gmail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&label=gmail&labelColor=black&color=black)](lksndrszkn@yandex.ru)
+[![Telegram](https://img.shields.io/badge/-telegram?style=for-the-badge&logo=telegram&logoColor=blue&label=TELEGRAM&labelColor=black&color=black)](https://t.me/Sozpai) [![Discord](https://img.shields.io/badge/-discord?style=for-the-badge&logo=discord&logoColor=%237289DA&label=Discord&labelColor=black&color=black)](https://discordapp.com/users/698423595264638986/)
