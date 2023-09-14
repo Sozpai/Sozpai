@@ -12,4 +12,6 @@
 
 ### Follow me and contacts
 
-![Telegram][(https://t.me/Sozpai)](https://img.shields.io/badge/-telegram?style=for-the-badge&logo=telegram&logoColor=blue&label=TELEGRAM&labelColor=black&color=black)
+[![Telegram](https://t.me/Sozpai)](https://img.shields.io/badge/-telegram?style=for-the-badge&logo=telegram&logoColor=blue&label=TELEGRAM&labelColor=black&color=black)
+
+[![Discord](https://discordapp.com/users/698423595264638986/)](https://img.shields.io/badge/-discord?style=for-the-badge&logo=discord&logoColor=%237289DA&label=Discord&labelColor=black&color=black)
