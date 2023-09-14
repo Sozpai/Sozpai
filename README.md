@@ -23,4 +23,4 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Site2)](https://github.com/Sozpai/Site2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Evklid)](https://github.com/Sozpai/Evklid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Site2)](https://sozpai.github.io/Site2/) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sozpai&repo=Evklid)](https://sozpai.github.io/Evklid/)
