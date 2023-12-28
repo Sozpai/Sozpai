@@ -7,7 +7,7 @@
 Привет! Я начинающий Full stack Developer на Javascript.
 
 На данный момент обучаюсь в Skillbox.
-Хочу встать на позицию стажера, чтобы набраться опыта.
+
 
 ### Languages and Tools:
 
